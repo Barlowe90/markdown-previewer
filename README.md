@@ -1,1 +1,1 @@
-## [Markdown preview](https://barlowe90.github.io/markdown-previewer/)
+http://barlowe90.github.io/markdown-previewer
